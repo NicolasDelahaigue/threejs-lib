@@ -1,0 +1,19 @@
+{
+  "name": "threejs-lib",
+  "version": "1.0.0",
+  "description": "Threejs npm package",
+  "main": "build/three.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasDelahaigue/threejs-lib.git"
+  },
+  "author": "Nicolas Delahaigue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasDelahaigue/threejs-lib/issues"
+  },
+  "homepage": "https://github.com/NicolasDelahaigue/threejs-lib#readme"
+}
